@@ -4,8 +4,10 @@
 ホームページ: 作成中
 # 開発言語
 Discord.js(Node.js)
+
 Discord.py
 # 開発者
 Discord.js(𝒌𝒂𝒎𝒆_8021)
+
 Discord.py(星神/gx1285.py)
 
